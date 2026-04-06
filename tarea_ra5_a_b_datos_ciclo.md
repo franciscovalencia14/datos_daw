@@ -37,7 +37,8 @@ Transformar datos en información permite mejorar la eficiencia, aumentar ventas
 
 ## 7) Tabla
 | Dato | Información |
-|79,99 €	| Precio medio de compra|
+|------|-------------|
+|  79,99 €| Precio medio de compra |
 |Sevilla	| Zona con mayor volumen de clientes|
 |2 unidades	| Promedio de productos por pedido|
 
