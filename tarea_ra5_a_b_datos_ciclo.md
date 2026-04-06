@@ -51,4 +51,6 @@ Usuario → App → Base de datos → Procesamiento → Análisis → Decisión
 -Solución 2: Limpieza y normalización de datos
 
 ## 10) Fuente
-- Enlace: OECD – https://www.oecd.org
+-IBM – Diferencia entre datos e información: https://www.ibm.com/topics/data-vs-information
+-Oracle – Qué son los datos y cómo se utilizan: https://www.oracle.com/database/what-is-data/
+-Microsoft – Conceptos de análisis de datos: https://learn.microsoft.com/es-es/training/modules/data-analytics-fundamentals/
