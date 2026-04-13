@@ -46,9 +46,9 @@
 Usuarios → Datos → Big Data → Análisis → Machine Learning → Deep Learning → IA → Recomendaciones
 ## 9) Problemas
 - Problema 1: Sobrecarga de datos
-- Solución 1: Uso de sistemas distribuidos  
+  - Solución 1: Uso de sistemas distribuidos  
 - Problema 2: Recomendaciones inexactas  
-- Solución 2: Mejora con Deep Learning y feedback  
+  - Solución 2: Mejora con Deep Learning y feedback  
 ## 10) Fuente
 - https://netflixtechblog.com/
 - https://research.netflix.com/machine-learning
