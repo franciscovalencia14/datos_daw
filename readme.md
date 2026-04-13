@@ -23,6 +23,40 @@
 5. Entrenamiento de modelos ML/DL  
 6. Generación de recomendaciones  
 7. Feedback continuo del usuario
+## 5) 5V del Big Data
+- Volumen: Millones de usuarios generan grandes cantidades de datos  
+- Velocidad: Datos en tiempo real (clics, búsquedas)  
+- Variedad: Videos, texto, historial, dispositivos  
+- Veracidad: Datos precisos y confiables  
+- Valor: Mejora la experiencia y retención del usuario
+## 6) Ejemplo aplicado
+- Datos: Historial de series vistas, tiempo de reproducción  
+- Análisis: Identificar preferencias (ej. thrillers)  
+- Modelo: Algoritmo de recomendación basado en ML  
+- Decisión: Mostrar contenido similar
+## 7) Tabla
+| Concepto         | Función |
+|------------------|--------|
+| Big Data         | Recopilar grandes volúmenes de datos |
+| Análisis         | Interpretar patrones |
+| Machine Learning | Aprender de los datos |
+| Deep Learning    | Mejorar precisión |
+| IA               | Tomar decisiones automatizadas |
+## 8) Diagrama
+Usuarios → Datos → Big Data → Análisis → Machine Learning → Deep Learning → IA → Recomendaciones
+## 9) Problemas
+- Problema 1: Sobrecarga de datos
+- Solución 1: Uso de sistemas distribuidos  
+- Problema 2: Recomendaciones inexactas  
+- Solución 2: Mejora con Deep Learning y feedback  
+## 10) Fuente
+- https://netflixtechblog.com/
+- https://research.netflix.com/machine-learning
+- https://netflixtechblog.com/foundation-model-for-personalized-recommendation
+- https://hellopm.co/netflix-content-recommendation-system-product-analytics-case-study/
+- https://bostoninstituteofanalytics.org/blog/how-machine-learning-powers-recommendation-systems-netflix-amazon-spotify/
+- https://en.wikipedia.org/wiki/Netflix 
+
 
 
 
